@@ -18,7 +18,6 @@ A hotel management system built with MySQL and Python.
 ## How to Run
 1. Import `hotel.sql` into MySQL Workbench
 2. Install dependencies: `pip install mysql-connector-python`
-3. 3. Update password in `db.py`
+3. Update password in `db.py`
 4. Run: `python main.py`
-5. ## Author
-Nguyen Ngo Anh Thu - 11247229
+5. Author: Nguyen Ngo Anh Thu - 11247229
